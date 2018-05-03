@@ -22,5 +22,4 @@ else:
         i = i + 1
     
     else:
-        c = c % 1000000007
         print(c) 
